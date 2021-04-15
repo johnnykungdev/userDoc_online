@@ -5,14 +5,29 @@ nav_order: 4
 ---
 
 # Build App Pages With Layer
+{: .no_toc }
 
 ---
 
-Layers are any frames, groups or objects created in the canvas area. They will be shown in the layer panel on the left of the page. Layers' kinds are indicated with different icons. The list of layers are as following:
+To start building a prototype of an application, you need to know the approximate number of the pages first. Pages are derived from your idea and can used to establish the major structure of an application. You will add pages using layers in Figma to the canvas and change the names to make the structure clear.
+
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## What Are Layers?
+
+Layers are any frames, groups or objects created in the canvas area. They will be shown in the layer panel on the left of the page. Layers' kinds are indicated with different icons. The list of layers are as following: 
 
 ![Layer Icons](../../assets/images/set3/3-1-layerIcons.png)
 
-The [Frame] layer will be used to create pages in Figma.
+## Create pages with Frame
 
 1.
 **Open** the layer panel on the left of the page
@@ -34,7 +49,11 @@ To create a page-like layer, **Click** [Frame]. Then Move the mouse to the grey 
 
 ![create page with frame by dragging](../../assets/images/set3/3-5-drawingFrame.png)
 
-5.
+## Alter the page name
+
+1.
 Upon successful creation, **click** either [Frame 1] on the layer panel or the frame in the canvas area to see its properties. The properties are shown in the property panel on the right side of the page. Height, width and other properties can be adjusted in the property panel.
 
 ![select frame to change its properties](../../assets/images/set3/3-6-propertyPanel.png)
+
+2. 
