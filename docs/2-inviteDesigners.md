@@ -18,6 +18,9 @@ After creating a project you can invite others as collaborators. Members can add
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
 ---
 
 ## Invite As A Viewer:
