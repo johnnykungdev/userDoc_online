@@ -4,7 +4,7 @@ title: Build App Pages with Layer
 nav_order: 4
 ---
 
-## Task 3: Build App Pages With Layer
+# Build App Pages With Layer
 
 Layers are any frames, groups or objects created in the canvas area. They will be shown in the layer panel on the left of the page. Layers' kinds are indicated with different icons. The list of layers are as following:
 
