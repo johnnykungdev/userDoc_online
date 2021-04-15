@@ -13,7 +13,7 @@ Create a new version of a project
 1.
 **Open** the menu when inside of a project and **select** [Save to Version History].
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f6744ba-605d-4947-996e-9e1f60668f27/Screen_Shot_2021-04-13_at_5.30.16_PM.png](../../assets/images/set6/6-1.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f6744ba-605d-4947-996e-9e1f60668f27/Screen_Shot_2021-04-13_at_5.30.16_PM.png](../../assets/images/set6/6-1.png)
 
     Or use the keyboard shortcuts:
 
