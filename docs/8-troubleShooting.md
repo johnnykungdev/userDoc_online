@@ -26,6 +26,10 @@ Operating systems:
 - Any Linux OS that supports the browsers mentioned above
 - Any Chrome OS that supports the browsers mentioned above
 
+### Figma website cannot be reached
+
+The error may occurs due to server offline. Proceed to [figma status]([https://status.figma.com/](https://status.figma.com/)) to confirm the status of Figma server. If the server is down, please contact Figma through [figma support contact]([https://www.figma.com/contact/](https://www.figma.com/contact/)) to seek support.
+
 ## Memory Usage Alert
 
 The alert is caused of Figma occupying more memory than memory limitation in the browser. To reduce memory usage, there are multiple ways of resolving the issue.
@@ -41,3 +45,4 @@ Create a new file in the Figma account. **Select** the images and the components
 ## Figma Files Loading Slowly
 
 The issue is possibly caused due to unstable internet connection. Check the internet connect used on the computer. If the issue is not resolved, switch to another internet connection or call you internet supplier to seek for assistance.
+
