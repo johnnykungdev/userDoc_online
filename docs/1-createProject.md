@@ -24,8 +24,10 @@ Create a new project from the left side bar
 
 2.
 **Click** on the plus icon(screenshot) to create a new project within the team
+
 3.
 In the create new project modal give your new project a meaningful name. It is possible to rename the project at any time
+
 4.
 Teams can set different permissions for a project:
     - [Edit]: the default project permissions
@@ -36,5 +38,6 @@ Teams can set different permissions for a project:
 
 5.
 **Click** [Create project] to create the new project
+
 6.
 The project page will open in the file browser

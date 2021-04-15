@@ -22,6 +22,7 @@ Any member can invite another viewer to the project but a viewer member cannot i
 
 2.
 **Click** on the [Invite] button in the top-right corner.
+
 3.
 A pop-up will appear for the email for the new member. There will be an option between [can view] or [can edit]. **Click** on the drop-down menu and choose [can view]. Figma will send the invite to the email.
 
@@ -35,6 +36,7 @@ Note: Team members will need to accept an edit invitation before they can get ed
 
 1.
 **Choose** a team project to invite someone to in the sidebar and go to the [Members] tab.
+
 2.
 **Click** on the [Invite] button in the top-right corner.
 
