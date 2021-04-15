@@ -10,7 +10,7 @@ nav_order: 7
 
 You can create and name new versions in your files. This is great for capturing a snapshot of the file at a specific time, or record a specific set of changes. You can add details to describe the changes you’ve made in this design iteration or any other details that may be relevant, like a milestone name or related task.
 
-## Create a new version of a project
+## Create a new version of a project  
 
 1.
 **Open** the menu when inside of a project and **select** [Save to Version History].
