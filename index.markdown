@@ -8,6 +8,8 @@ permalink: /
 
 # Introduction
 
+---
+
 The purpose of this document is to offer users a basic understanding of prototyping using Figma. Figma is a web-based graphic design editor created by Figma. inc in 2016. It is also available on Windows/Mac desktop app and IOS/Android mobile app versions, which contain additional offline features. Figma is packed with multiple design features such as the Arc tool and Vector Networks, and it allows designers to collaborate online. With versatile functions, Figma enables users to create a scalable design system that is easy to manage.
 
 In this documentation, we will build a low-fidelity prototype of instagram mockup with the free starter plan. Once you sign up with an email account, you'll get access to up to 3 projects and be able to collaborate with another editor online.

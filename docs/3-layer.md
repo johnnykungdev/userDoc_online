@@ -6,6 +6,8 @@ nav_order: 4
 
 # Build App Pages With Layer
 
+---
+
 Layers are any frames, groups or objects created in the canvas area. They will be shown in the layer panel on the left of the page. Layers' kinds are indicated with different icons. The list of layers are as following:
 
 ![Layer Icons](../../assets/images/set3/3-1-layerIcons.png)

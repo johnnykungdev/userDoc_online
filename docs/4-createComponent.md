@@ -6,6 +6,8 @@ nav_order: 5
 
 # Create Components On The Layout
 
+---
+
 After creating layers, we can add some components on to the layers.
 
 Components are elements you can reuse across your designs. They help to create and manage consistent designs across projects.

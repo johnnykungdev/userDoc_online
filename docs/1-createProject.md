@@ -6,6 +6,8 @@ nav_order: 2
 
 # Create A Project
 
+---
+
 Creating projects allow a user to group your related design files together in a single area, like a folder in a file system. Projects are only available in teams. Create teams for your own work, or for collaborating within a group. In a Starter Team, you can create up to 2 Projects.
 
 Create a new team project from the team workspace

@@ -6,6 +6,8 @@ nav_order: 6
 
 # Connect The Pages
 
+---
+
 Once you are done creating elements and component, you can link elements to other pages by creating connections.
 
 Connections help to visualize the actual flow of the project when prototyping.
