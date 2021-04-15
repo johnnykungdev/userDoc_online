@@ -27,9 +27,11 @@ Operating systems:
 
 The alert is caused of Figma occupying more memory than memory limitation in the browser. To reduce memory usage, there are multiple ways of resolving the issue.
 
-1. Remove Hidden Layers:
+1.
+Remove Hidden Layers:
 Find layers hidden in the Figma file. They use large amount of memory in the browser. After finding the hidden layers, select it in the canvas or [Layers panel] then use the <delete> or <backspace> to delete it.
-2. Split files with images and pages:
+2.
+Split files with images and pages:
 Create a new file in the Figma account. **Select** the images and the components you want to move to another file. **Copy** and **Paste** them to the new file. Return to the original file and **delete** the images and components you moved.
 
 ### Figma Files Loading Slowly
