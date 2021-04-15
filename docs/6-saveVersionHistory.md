@@ -17,18 +17,27 @@ You can create and name new versions in your files. This is great for capturing 
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f6744ba-605d-4947-996e-9e1f60668f27/Screen_Shot_2021-04-13_at_5.30.16_PM.png](../../assets/images/set6/6-1.png)
 
-    Or use the keyboard shortcuts:
+---
+**Note**
 
-    - **Mac:**  <⌘ Command + ⌥ Option + S>
-    - **Windows:**  <Ctrl + Alt + S>
+Or use the keyboard shortcuts:
+
+- **Mac:**  <⌘ Command + ⌥ Option + S>
+- **Windows:**  <Ctrl + Alt + S>
+
+---
 
 2.
 **Add** a [Title] and a [Description] about your changes and why you made them.
 
-Tips:
+---
+
+**Tips**
 - Figma cuts titles that are longer than 25 characters.
 - To see the full description at a glance be sure to make your descriptions less than 140 characters.
 - You can add URLs, but Figma will not turn them into clickable links.
+
+---
 
 3.
 **Click** [Save] to create a new version.
