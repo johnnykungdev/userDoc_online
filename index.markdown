@@ -48,7 +48,7 @@ This section shows the conventions used through the rest of the instructions. Th
 
 |  Conventions          | Examples           |
 | -------------          |:-------------:    |
-| Commands             | **Paste**, **Copy**, **Save**, **Return** **Press**|
+| Commands             | **Paste**, **Copy**, **Save**, **Return**, **Press**|
 | Keyboard keys         | <Command + D> <Shift>|
 | Options & Sequences   | [File] > [save]       |
 | Windows                 | "New Window" |
