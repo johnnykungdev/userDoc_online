@@ -5,6 +5,9 @@ nav_order: 9
 ---
 
 # Troubleshooting
+
+---
+
 ## Cannot Open Figma In The Browser
 
 The failure could be caused by using unsupported versions of browser or unsupported operation system on the computer. The supported browsers and operating system are listed below.

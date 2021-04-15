@@ -6,6 +6,8 @@ nav_order: 8
 
 # Glossary
 
+---
+
 **Prototyping**: Prototyping is an experimental process where design teams implement ideas into tangible forms from paper to digital.
 
 **Graphic design**: Graphic design is a craft where professionals create visual content to communicate messages.
