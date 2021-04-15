@@ -42,7 +42,7 @@ layout: table_wrappers
 
   <div class="side-bar">
     <div class="site-header">
-      <a href="{{ '/' | absolute_url }}" class="site-title lh-tight">{% include title.html %}</a>
+      <a href="{{ '/' | absolute_url }}" class="site-title lh-tight">Figma Prototyping</a>
       <a href="#" id="menu-button" class="site-button">
         <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
       </a>
@@ -74,7 +74,7 @@ layout: table_wrappers
       {% if site.search_enabled != false %}
         <div class="search">
           <div class="search-input-wrap">
-            <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
+            <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Prototyping In Figma" aria-label="Search {{ site.title }}" autocomplete="off">
             <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
           </div>
           <div id="search-results" class="search-results"></div>
@@ -84,17 +84,15 @@ layout: table_wrappers
       {% if site.aux_links %}
         <nav aria-label="Auxiliary" class="aux-nav">
           <ul class="aux-nav-list">
-            {% for link in site.aux_links %}
               <li class="aux-nav-list-item">
-                <a href="{{ link.last }}" class="site-button"
+                <a href="https://github.com/kjohnathan/COMM_userdoc/blob/master/documentation.md" class="site-button"
                   {% if site.aux_links_new_tab %}
                   target="_blank" rel="noopener noreferrer"
                   {% endif %}
                 >
-                  {{ link.first }}
+                  Repo on GitHub
                 </a>
               </li>
-            {% endfor %}
           </ul>
         </nav>
       {% endif %}
