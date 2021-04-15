@@ -4,7 +4,7 @@ title: Save To Version History
 nav_order: 7
 ---
 
-## Task 6: Save To Version History
+# Save To Version History
 
 You can create and name new versions in your files. This is great for capturing a snapshot of the file at a specific time, or record a specific set of changes. You can add details to describe the changes you’ve made in this design iteration or any other details that may be relevant, like a milestone name or related task.
 

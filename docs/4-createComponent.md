@@ -4,7 +4,7 @@ title: Create Components On The Layout
 nav_order: 5
 ---
 
-## Task 4: Create Components On The Layout
+# Create Components On The Layout
 
 After creating layers, we can add some components on to the layers.
 

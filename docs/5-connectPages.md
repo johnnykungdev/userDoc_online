@@ -4,7 +4,7 @@ title: Connect The Pages
 nav_order: 6    
 ---
 
-## Task 5: Connect The Pages
+# Connect The Pages
 
 Once you are done creating elements and component, you can link elements to other pages by creating connections.
 
