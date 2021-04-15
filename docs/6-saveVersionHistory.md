@@ -20,7 +20,7 @@ You can create and name new versions in your files. This is great for capturing 
 ---
 **Note**
 
-Or use the keyboard shortcuts:
+Use the following keyboard shortcuts to achieve the same action for different operating systems:
 
 - **Mac:**  <⌘ Command + ⌥ Option + S>
 - **Windows:**  <Ctrl + Alt + S>
@@ -28,7 +28,7 @@ Or use the keyboard shortcuts:
 ---
 
 2.
-**Add** a [Title] and a [Description] about your changes and why you made them.
+**Add** a [Title] and a [Description] about your changes and why you made them in the popped-up modal.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f6744ba-605d-4947-996e-9e1f60668f27/Screen_Shot_2021-04-13_at_5.30.16_PM.png](../../assets/images/set6/6-2.png)
 
