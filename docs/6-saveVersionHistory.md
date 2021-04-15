@@ -6,6 +6,8 @@ nav_order: 7
 
 # Save To Version History
 
+---
+
 You can create and name new versions in your files. This is great for capturing a snapshot of the file at a specific time, or record a specific set of changes. You can add details to describe the changes you’ve made in this design iteration or any other details that may be relevant, like a milestone name or related task.
 
 ## Create a new version of a project
@@ -23,10 +25,10 @@ You can create and name new versions in your files. This is great for capturing 
 2.
 **Add** a [Title] and a [Description] about your changes and why you made them.
 
-    Tips:
-    - Figma cuts titles that are longer than 25 characters.
-    - To see the full description at a glance be sure to make your descriptions less than 140 characters.
-    - You can add URLs, but Figma will not turn them into clickable links.
+Tips:
+- Figma cuts titles that are longer than 25 characters.
+- To see the full description at a glance be sure to make your descriptions less than 140 characters.
+- You can add URLs, but Figma will not turn them into clickable links.
 
 3.
 **Click** [Save] to create a new version.
