@@ -4,7 +4,8 @@ title: Invite Designers To Collaborate
 nav_order: 3
 ---
 
-# Invite Designers to Collaborate
+# Title
+{: .no_toc }
 
 ---
 
