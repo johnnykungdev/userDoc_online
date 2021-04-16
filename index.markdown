@@ -31,8 +31,8 @@ This document is intended for novice designers who have no previous knowledge of
 
 By following the document to the end, you will be able to:
 
-- create project and invite other collaborators
-- create page using frame
+- Create project and invite other collaborators
+- Create page using frame
 - Add components to the page
 - Connect pages with prototyping tool
 - Save the file locally/to version history
