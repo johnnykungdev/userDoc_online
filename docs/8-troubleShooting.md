@@ -5,6 +5,15 @@ nav_order: 9
 ---
 
 # Troubleshooting
+{: .no_toc }
+
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,6 +35,8 @@ Operating systems:
 - Any Linux OS that supports the browsers mentioned above
 - Any Chrome OS that supports the browsers mentioned above
 
+---
+
 ## Figma website cannot be reached
 
 The error may occurs due to server offline. Proceed to [figma status]([https://status.figma.com/](https://status.figma.com/)) to confirm the status of Figma server. If the server is down, please contact Figma through [figma support contact]([https://www.figma.com/contact/](https://www.figma.com/contact/)) to seek support.
@@ -42,9 +53,8 @@ Find layers hidden in the Figma file. They use a large amount of memory in the b
 Split files with images and pages:
 Create a new file in the Figma account. **Select** the images and the components you want to move to another file. **Copy** and **Paste** them to the new file. Return to the original file and **delete** the images and components you moved.
 
+---
+
 ## Figma Files Loading Slowly
 
 The issue is possibly caused due to unstable internet connection. Check the internet connect used on the computer. If the issue is not resolved, switch to another internet connection or call you internet supplier to seek for assistance.
-
-
-
