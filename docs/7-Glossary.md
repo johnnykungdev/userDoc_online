@@ -18,6 +18,8 @@ nav_order: 8
 
 **Scalable design**: Scalable design is a form of responsiveness, in that it responds to the dimensions of the screen the content is being delivered to.
 
+**Medium-fidelity prototype**: A prototype that presents core features, and is interactive to provide users with experience in the user flow.
+
 **Hover**: In computing, a mouseover, mouse hover or hover box is a graphical control element that is activated when the user moves or hovers the pointer over a trigger area, usually with a mouse, but also possible with a digital pen.
 
 **Modal**: In user interface design for computer applications, a modal window is a graphical control element subordinate to an application's main window.
