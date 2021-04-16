@@ -39,7 +39,7 @@ Any member can invite another viewer to the project but a viewer member cannot i
 **Click** on the [Invite] button in the top-right corner.
 
 3.
-A pop-up will appear for the email for the new member. There will be an option between [can view] or [can edit]. **Click** on the drop-down menu and choose [can view]. Figma will send the invite to the email.
+**Click** on the drop-down menu and choose [can view]. Figma will send the invite to the email. A pop-up will appear for the email for the new member. There will be an option between [can view] or [can edit].
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](../../assets/images/set2/2-2.png)
 
