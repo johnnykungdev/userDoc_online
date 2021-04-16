@@ -56,11 +56,9 @@ To create a page-like layer, **Click** [Frame]. Then Move the mouse to the grey 
 ## Alter The Page Name
 
 1.
-Upon successful creation, **click** either [Frame 1] on the layer panel or the frame in the canvas area to see its properties. The properties are shown in the property panel on the right side of the page. Height, width and other properties can be adjusted in the property panel.
+Upon successful creation, **click** either [Frame 1] on the layer panel or the frame in the canvas area to see its properties.
 
 ![select frame to change its properties](../../assets/images/set3/3-6.png)
-
-![select frame to change its properties](../../assets/images/set3/3-7-propertyPanel.png)
 
 2.
 **Right-Click** on the [Fram 1] option on the layer panel. **Select** the [Rename] option. 
