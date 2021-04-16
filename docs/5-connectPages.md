@@ -12,6 +12,8 @@ Once you are done creating elements and component, you can link elements to othe
 
 Connections help to visualize the actual flow of the project when prototyping.
 
+---
+
 1.
 **Click** on an element and **select** [Prototype]
 

@@ -15,6 +15,8 @@ Components are elements you can reuse across your designs. They help to create a
 
 You can create components from any layers or objects you've designed. These could be a whole range of things like buttons, icons, layouts, and more.
 
+---
+
 1.
 **Click** on the [Shape Tools] and you will see [Rectangle] has been selected by default.
 
