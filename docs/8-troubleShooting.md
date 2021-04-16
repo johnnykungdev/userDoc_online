@@ -36,7 +36,7 @@ The alert is caused by Figma occupying more memory than memory limitation in the
 
 1.
 Remove Hidden Layers:
-Find layers hidden in the Figma file. They use a large amount of memory in the browser. After finding the hidden layers, select it in the canvas or [Layers panel] then use the < delete > or < backspace > to delete it.
+Find layers hidden in the Figma file. They use a large amount of memory in the browser. After finding the hidden layers, select it in the canvas or [Layers panel] then use the < Delete > or < Backspace > to delete it.
 
 2.
 Split files with images and pages:
