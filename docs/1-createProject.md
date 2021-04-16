@@ -21,7 +21,7 @@ Project is a container of related files in Figma. Projects are only accessible w
 
 ---
 
-## Create a new team project from the team workspace
+## Create A New Team Project From The Team Workspace
 
 1.
 **Click** on the [New project] button in the top right-hand corner of the screen in the team workspace
