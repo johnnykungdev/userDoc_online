@@ -8,7 +8,7 @@ nav_order: 7
 
 ---
 
-Using Figma users can save their files. This is great for capturing a snapshot of the file at a specific time, or record a specific set of changes. You can add details to describe the changes you’ve made in this design iteration or any other details that may be relevant, like a milestone name or related task. This is a great tool 
+Using Figma users can save their files. This is a great tool for capturing certain versions of the files users create and it gives the user a chance to describe any changes that were made.
 
 ---
 
