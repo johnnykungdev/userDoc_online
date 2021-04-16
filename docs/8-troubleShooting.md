@@ -41,6 +41,8 @@ Operating systems:
 
 The error may occur due to server offline. Proceed to [figma status]([https://status.figma.com/](https://status.figma.com/)) to confirm the status of Figma server. If the server is down, please contact Figma through [figma support contact]([https://www.figma.com/contact/](https://www.figma.com/contact/)) to seek further support.
 
+---
+
 ## Memory Usage Alert
 
 The alert is caused by Figma occupying more memory than memory limitation in the browser. To reduce memory usage, there are multiple ways of resolving the issue.
