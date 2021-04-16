@@ -14,6 +14,8 @@ The purpose of this document is to offer users a basic understanding of prototyp
 
 In this documentation, we will build a low-fidelity prototype of instagram mockup with the free starter plan. Once you sign up with an email account, you'll get access to up to 3 projects and be able to collaborate with another editor online.
 
+---
+
 ## Intended users
 
 This document is intended for novice designers who have no previous knowledge of using Figma. The user should be able to create web app prototypes and collaborate with other designers and/or developers.
@@ -26,11 +28,15 @@ By following the document to the end, you will be able to:
 - Connect pages with prototyping tool
 - Save the file locally/to version history
 
+---
+
 ## Prerequisites
 
 - Computer with any operation system
 - Any of the web browsers (Chrome, Firefox, Edge etc.)
 - An email account to sign up with free starter plan
+
+---
 
 ## Conventions
 
