@@ -19,7 +19,7 @@ nav_order: 9
 
 ## Cannot Open Figma In The Browser
 
-The failure could be caused by using unsupported versions of browser or unsupported operation system on the computer. The supported browsers and operating system are listed below.
+The failure could be caused by using unsupported versions of browser or unsupported operation systems on the computer. The supported browsers and operating systems are listed below.
 
 Versions of browsers:
 
@@ -39,7 +39,7 @@ Operating systems:
 
 ## Figma website cannot be reached
 
-The error may occurs due to server offline. Proceed to [figma status]([https://status.figma.com/](https://status.figma.com/)) to confirm the status of Figma server. If the server is down, please contact Figma through [figma support contact]([https://www.figma.com/contact/](https://www.figma.com/contact/)) to seek support.
+The error may occur due to server offline. Proceed to [figma status]([https://status.figma.com/](https://status.figma.com/)) to confirm the status of Figma server. If the server is down, please contact Figma through [figma support contact]([https://www.figma.com/contact/](https://www.figma.com/contact/)) to seek further support.
 
 ## Memory Usage Alert
 
