@@ -11,9 +11,8 @@ nav_order: 5
 
 After creating layers, we can add some components on to the layers.
 
-Components are elements you can reuse across your designs. They help to create and manage consistent designs across projects.
-
-You can create components from any layers or objects you've designed. These could be a whole range of things like buttons, icons, layouts, and more.
+Elements can be grouped into components which can be used throughout your project.
+Components can include any objects or elements such as shapes, images, texts, and many more.
 
 ---
 

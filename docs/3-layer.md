@@ -23,7 +23,7 @@ To start building a prototype of an application, you need to know the approximat
 
 ## What Are Layers?
 
-Layers are any frames, groups or objects created in the canvas area. They will be shown in the layer panel on the left of the page. Layers' kinds are indicated with different icons. The list of layers are as following: 
+Layers are the frames, groups, shapes or objects created in the canvas area (gray part in the page). They will be shown in the layer panel on the left of the page. Layers’ kinds are indicated with different icons. The list of layers are as following:
 
 ![Layer Icons](../../assets/images/set3/3-1-layerIcons.png)
 

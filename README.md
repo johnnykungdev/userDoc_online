@@ -31,5 +31,10 @@ During the process, we made our text more concise and made our screenshots clear
 
 Template-wise, we chose the theme - Just The Docs, which is based on Jekyll and was suggested in our course Comm 2116. It's simple in design and provides clear navigation bar on the left. The users can easily direct to the desired section.
 
---- 
+---
 
+## Challenges
+
+Throughout the process of creating the User Guide Document, we have faced a few obstacles we needed to overcome. The very first challenge was that the images(screenshots) we used were not showing up on the GitHub when we pushed our Markdown files. The problem was that we copied the image links from Notion, the tool we first used to collaborate, and images were stored in the Notion CDN. GitHub has no access to the Notion CDN therefore our images were left blank. To resolve this issue, our team saved all of our images in the repository so they can be properly loaded on GitHub.
+
+Another problem we had to tackle was that we misunderstood the final document format that we needed to submit just one day before it was due. We have worked for weeks and the amount of content we have created was enormous. Our team gathered online and spent the entire day to convert to proper format. Luckily, these situations were not extremely problematic however they could have been avoided if we managed the assignment more carefully.
