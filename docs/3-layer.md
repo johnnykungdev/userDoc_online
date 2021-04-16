@@ -27,6 +27,8 @@ Layers are any frames, groups or objects created in the canvas area. They will b
 
 ![Layer Icons](../../assets/images/set3/3-1-layerIcons.png)
 
+---
+
 ## Create pages with Frame
 
 1.
@@ -49,11 +51,27 @@ To create a page-like layer, **Click** [Frame]. Then Move the mouse to the grey 
 
 ![create page with frame by dragging](../../assets/images/set3/3-5-drawingFrame.png)
 
+---
+
 ## Alter the page name
 
 1.
 Upon successful creation, **click** either [Frame 1] on the layer panel or the frame in the canvas area to see its properties. The properties are shown in the property panel on the right side of the page. Height, width and other properties can be adjusted in the property panel.
 
-![select frame to change its properties](../../assets/images/set3/3-6-propertyPanel.png)
+![select frame to change its properties](../../assets/images/set3/3-6.png)
+
+![select frame to change its properties](../../assets/images/set3/3-7-propertyPanel.png)
 
 2. 
+**Right-Click** on the [Fram 1] option on the layer panel. **Select** the [Rename] option. 
+
+![select frame to change its properties](../../assets/images/set3/3-8.png)
+
+3. 
+Enter the name of the page in the input.
+
+![select frame to change its properties](../../assets/images/set3/3-9.png)
+
+4. After alteration, the new name is displayed on top of the frame.
+
+![select frame to change its properties](../../assets/images/set3/3-10.png)
