@@ -48,8 +48,6 @@ After **clicking** the [frame], the region tool will be blue. Make sure it's sel
 
 ![select the frame took](../../assets/images/set3/3-4-frame.png)
 
----
-
 4.
 To create a page-like layer, **Click** [Frame]. Then Move the mouse to the grey section of the Figma, which is the drawing area. **Click** on the starting point, then keep **Dragging** until the frame matches the expected size and shape.
 
