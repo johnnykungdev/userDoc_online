@@ -1,72 +1,35 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions?query=workflow%3A%22Master+branch+CI%22"><img src="https://github.com/pmarsceill/just-the-docs/workflows/Master%20branch%20CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+# Introduction to the Figma User Guide
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+---
 
-## Installation
+This documentation serves as an introductory guide to using the Figma. The instructions will walk you through the basics, from creating projects, to editing and connecting pages.
+The topics covered in this guide:
+* Create A Project
+* Invite Designers To Collaborate
+* Build App Pages With Layers
+* Create Components On The Layout
+* Connect The Pages
+* Save To Version History
 
-Add this line to your Jekyll site's Gemfile:
+---
 
-```ruby
-gem "just-the-docs"
-```
+## Collaboration
 
-And add this line to your Jekyll site's `_config.yml`:
+Our team did some brainstorming and we came across Figma in our Web Development 2 course. We decided that it would benefit us and our class to make a user guide for Figma because we did not get enough practice time with the software in class.
 
-```yaml
-theme: just-the-docs
-```
+We primarily used Discord for any means of real time communication and to share links. We had time in our Comm 2116 class when we were put into breakout rooms and this is when we got most of the content down. We each took a page or two to complete during our group meetings, we used class time mainly but towards the end we needed some extra time to figure out how to put it all together. We proof read simultaneously and separately to save time. 
 
-And then execute:
+We used the Visual Studio Code live share extension while coding our markdown together, this extension was a great help on keeping everyone on the same page and prevented our laptops from freezing due to non of us having to share our screens.
 
-    $ bundle
+---
 
-Or install it yourself as:
+## Documentation Creation
 
-    $ gem install just-the-docs
+We started by listing down the features that we think are essential for beginners to build the prototype they want. The decision was made to choose six basic functions to be elaborated in the documentation. Then we went through every feature by ourself, making sure we're familiar with the process and able to list down the steps required. We drafted our documents on Notion, since it's also collaborative and can be transferred to Markdown language easily. After most of the content is written, we created a repository on GitHub and used it to deploy a markdown file containing the content.
 
-Alternatively, you can run it inside Docker while developing your site
+During the process, we made our text more concise and made our screenshot clear. Each instruction is related to the previous and the later one to provide user with comprehensive understanding in building a prototype. We took advantage of Markdown that it is clear in hierarchy and easy to read, combined with Jekyll, a static-site generator, to create web pages on GitHub.
 
-    $ docker-compose up
+Template-wise, we chose the theme - Just The Docs, which is based on Jekyll and was suggested in our course Comm 2116. It's simple in design and provides clear navigation bar on the left. The users can easily direct to the desired section. 
 
-## Usage
+--- 
 
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-### Submitting code changes:
-
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
-
-### Design and development principles of this theme:
-
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
