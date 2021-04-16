@@ -62,16 +62,17 @@ Upon successful creation, **click** either [Frame 1] on the layer panel or the f
 
 ![select frame to change its properties](../../assets/images/set3/3-7-propertyPanel.png)
 
-2. 
+2.
 **Right-Click** on the [Fram 1] option on the layer panel. **Select** the [Rename] option. 
 
 ![select frame to change its properties](../../assets/images/set3/3-8.png)
 
-3. 
+3.
 Enter the name of the page in the input.
 
 ![select frame to change its properties](../../assets/images/set3/3-9.png)
 
-4. After alteration, the new name is displayed on top of the frame.
+4.
+After alteration, the new name is displayed on top of the frame.
 
 ![select frame to change its properties](../../assets/images/set3/3-10.png)
