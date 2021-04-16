@@ -11,8 +11,8 @@ nav_order: 3
 
 After creating a project you can invite others as collaborators. Members can add a collaborator at a permission level equal to, or less than, their own permissions. Team members can be added as either an editor or a viewer.
 
-- [Editors] can invite others to the team as Viewers or Editors.
-- [Viewers] can only invite other Viewers to the team.
+- Editors can invite others to the team as Viewers or Editors.
+- Viewers can only invite other Viewers to the team.
 
 ---
 
