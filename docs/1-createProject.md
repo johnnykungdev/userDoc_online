@@ -5,14 +5,23 @@ nav_order: 2
 ---
 
 # Create A Project
+{: .no_toc }
+
+---
 
 Project is a container of related files in Figma. Projects are only accessible within a team and every team member can share a same workspace. Create a team for your own work, or for collaborating in a group. In a team of Starter plan, you can create up to 2 projects.
 
 ---
 
-## Create a new team project from the team workspace
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
+
+## Create a new team project from the team workspace
 
 1.
 **Click** on the [New project] button in the top right-hand corner of the screen in the team workspace
