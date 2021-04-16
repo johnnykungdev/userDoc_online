@@ -45,9 +45,9 @@ In the create new project modal give your new project a meaningful name. It is p
 
 4.
 Teams can set different permissions for a project:
-    - [Edit]: the default project permissions
-    - [View]: even if team members have edit permissions on they can only view the project when in this permission
-    - [Invite-only]: only team members or collaborators you invite to the project will be able to access files in this project
+* [Edit]: the default project permissions
+* [View]: even if team members have edit permissions on they can only view the project when in this permission
+* [Invite-only]: only team members or collaborators you invite to the project will be able to access files in this project
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](../../assets/images/set1/1-3.png)
 
