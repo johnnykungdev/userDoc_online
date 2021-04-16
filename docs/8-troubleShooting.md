@@ -57,4 +57,4 @@ Create a new file in the Figma account. **Select** the images and the components
 
 ## Figma Files Loading Slowly
 
-The issue is possibly caused due to unstable internet connection. Check the internet connect used on the computer. If the issue is not resolved, switch to another internet connection or call you internet supplier to seek for assistance.
+The issue is possibly caused due to unstable internet connection. Check the internet connect used on the computer. If the issue is not resolved, switch to another internet connection or call your internet supplier to seek assistance.
