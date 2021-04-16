@@ -44,7 +44,7 @@ Use the following keyboard shortcuts to achieve the same action for different op
 3.
 **Click** [Save] to create a new version.
 
-[Image show red mark on save button](../../assets/images/set6/6-3.png)
+![Image show red mark on save button](../../assets/images/set6/6-3.png)
 
 4.
 **Click** [Down Arrow] on the right of [File Name] top of the "window".
