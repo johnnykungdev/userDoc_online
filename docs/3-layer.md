@@ -29,7 +29,7 @@ Layers are any frames, groups or objects created in the canvas area. They will b
 
 ---
 
-## Create pages with Frame
+## Create Pages With Frame
 
 1.
 **Open** the layer panel on the left of the page
@@ -53,7 +53,7 @@ To create a page-like layer, **Click** [Frame]. Then Move the mouse to the grey 
 
 ---
 
-## Alter the page name
+## Alter The Page Name
 
 1.
 Upon successful creation, **click** either [Frame 1] on the layer panel or the frame in the canvas area to see its properties. The properties are shown in the property panel on the right side of the page. Height, width and other properties can be adjusted in the property panel.
