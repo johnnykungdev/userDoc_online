@@ -31,20 +31,28 @@ Layers are any frames, groups or objects created in the canvas area. They will b
 
 ## Create Pages With Frame
 
+---
+
 1.
 **Open** the layer panel on the left of the page
 
 ![open layer panel](../../assets/images/set3/3-2-layerPanel.png)
+
+---
 
 2.
 **Click** on the [Region tools]. There will be two options: [Frames] and [slice].
 
 ![use region tools](../../assets/images/set3/3-3-RegionTools.png)
 
+---
+
 3.
 After **clicking** the [frame], the region tool will be blue. Make sure it's selected.
 
 ![select the frame took](../../assets/images/set3/3-4-frame.png)
+
+---
 
 4.
 To create a page-like layer, **Click** [Frame]. Then Move the mouse to the grey section of the Figma, which is the drawing area. **Click** on the starting point, then keep **Dragging** until the frame matches the expected size and shape.
@@ -60,15 +68,21 @@ Upon successful creation, **click** either [Frame 1] on the layer panel or the f
 
 ![select frame to change its properties](../../assets/images/set3/3-6.png)
 
+---
+
 2.
 **Right-Click** on the [Fram 1] option on the layer panel. **Select** the [Rename] option. 
 
 ![select frame to change its properties](../../assets/images/set3/3-8.png)
 
+---
+
 3.
 Enter the name of the page in the input.
 
 ![select frame to change its properties](../../assets/images/set3/3-9.png)
+
+---
 
 4.
 After alteration, the new name is displayed on top of the frame.
