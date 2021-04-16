@@ -40,8 +40,12 @@ Project is a container of related files in Figma. Projects are only accessible w
 2.
 **Click** on the plus icon(screenshot) to create a new project within the team
 
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](../../assets/images/set1/1-3.png)
+
 3.
 In the create new project modal give your new project a meaningful name. It is possible to rename the project at any time
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](../../assets/images/set1/1-4.png)
 
 4.
 Teams can set different permissions for a project:
@@ -49,7 +53,7 @@ Teams can set different permissions for a project:
 * [View]: even if team members have edit permissions on they can only view the project when in this permission
 * [Invite-only]: only team members or collaborators you invite to the project will be able to access files in this project
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](../../assets/images/set1/1-3.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](../../assets/images/set1/1-5.png)
 
 5.
 **Click** [Create project] to create the new project
