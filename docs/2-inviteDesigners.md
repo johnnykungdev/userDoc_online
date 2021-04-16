@@ -24,7 +24,7 @@ After creating a project you can invite others as collaborators. Members can add
 
 ---
 
-## Invite As A Viewer:
+## Invite As A Viewer
 
 Any member can invite another viewer to the project but a viewer member cannot invite an editor to the project. The viewers in a project can only view and comment on files and projects.
 
@@ -45,9 +45,10 @@ Any member can invite another viewer to the project but a viewer member cannot i
 
 ---
 
-## Invite As A Editor:
+## Invite As A Editor
 
-Note: Only members with a can edit access can invite editors to the team. Team members will need to accept an edit invitation before they can get edit access to the team. The invitation will be sent to the email.
+**Note:**
+Only members with a can edit access can invite editors to the team. Team members will need to accept an edit invitation before they can get edit access to the team. The invitation will be sent to the email.
 
 ---
 
