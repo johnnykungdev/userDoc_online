@@ -27,9 +27,9 @@ We used the Visual Studio Code live share extension while coding our markdown to
 
 We started by listing down the features that we think are essential for beginners to build the prototype they want. The decision was made to choose six basic functions to be elaborated in the documentation. Then we went through every feature by ourself, making sure we're familiar with the process and able to list down the steps required. We drafted our documents on Notion, since it's also collaborative and can be transferred to Markdown language easily. After most of the content is written, we created a repository on GitHub and used it to deploy a markdown file containing the content.
 
-During the process, we made our text more concise and made our screenshot clear. Each instruction is related to the previous and the later one to provide user with comprehensive understanding in building a prototype. We took advantage of Markdown that it is clear in hierarchy and easy to read, combined with Jekyll, a static-site generator, to create web pages on GitHub.
+During the process, we made our text more concise and made our screenshots clear. Each set of instructions is related to the previous set and the next set provides users with a comprehensive understanding in building a prototype. We took advantage of Markdown that it is clear in hierarchy and easy to read, combined with Jekyll, a static-site generator, to create web pages on GitHub.
 
-Template-wise, we chose the theme - Just The Docs, which is based on Jekyll and was suggested in our course Comm 2116. It's simple in design and provides clear navigation bar on the left. The users can easily direct to the desired section. 
+Template-wise, we chose the theme - Just The Docs, which is based on Jekyll and was suggested in our course Comm 2116. It's simple in design and provides clear navigation bar on the left. The users can easily direct to the desired section.
 
 --- 
 
