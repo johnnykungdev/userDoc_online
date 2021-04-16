@@ -47,8 +47,6 @@ Any member can invite another viewer to the project but a viewer member cannot i
 
 ## Invite As A Editor
 
-**Note:**
-
 Only members with a can edit access can invite editors to the team. Team members will need to accept an edit invitation before they can get edit access to the team. The invitation will be sent to the email.
 
 ---
